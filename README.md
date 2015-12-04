@@ -1,6 +1,5 @@
-# pyomo
-
-Ejemplos de introducción a la optimización con Pyomo (Python).
+# Optimización matemática con Python ([Pyomo](http://www.pyomo.org/) vs GAMS)
+Ejemplos de introducción a la optimización con [Pyomo](http://www.pyomo.org/) (Python) y diapositivas presentadas por Daniel Domene y Carlos Planelles durante la PyConES 2015 celebrada en Valencia.
 
 OPEN SOURCE SOLVERS:
   Linear solvers
@@ -11,6 +10,6 @@ OPEN SOURCE SOLVERS:
 Se pueden descargar en:
   http://ampl.com/products/solvers/open-source/
 
-El ejecutable debe añadirse al PATH.
+El ejecutable del solver debe añadirse al PATH ([ver documentación de Pyomo](http://www.pyomo.org/installation)).
 
-(en MINLP, process synthesis hay un fallo, aplicar big-M)
+Nota: en el problema MINLP, process synthesis, hay un fallo al aplicar big-M.
