@@ -1,5 +1,5 @@
 # Optimización matemática con Python ([Pyomo](http://www.pyomo.org/) vs GAMS)
-Ejemplos de introducción a la optimización con [Pyomo](http://www.pyomo.org/) (Python) y diapositivas presentadas por Daniel Domene y Carlos Planelles durante la PyConES 2015 celebrada en Valencia.
+Ejemplos de introducción a la optimización con [Pyomo](http://www.pyomo.org/) (Python) y diapositivas presentadas por Daniel Domene y Carlos Planelles durante la PyConES 2015 celebrada en Valencia ([ver diapositivas](http://www.slideshare.net/CAChemE/optimizacion-con-python-pyomo-vs-gams-vs-ampl)).
 
 OPEN SOURCE SOLVERS:
   Linear solvers
@@ -13,6 +13,8 @@ Se pueden descargar en:
 El ejecutable del solver debe añadirse al PATH ([ver documentación de Pyomo](http://www.pyomo.org/installation)).
 
 Nota: en el problema MINLP, process synthesis, hay un fallo al aplicar big-M.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1wRhdfkPuj48Sw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CAChemE/optimizacion-con-python-pyomo-vs-gams-vs-ampl" title="Optimizacion con Python (Pyomo vs GAMS vs AMPL)" target="_blank">Optimizacion con Python (Pyomo vs GAMS vs AMPL)</a> </strong> from <strong><a href="//www.slideshare.net/CAChemE" target="_blank">CAChemE</a></strong> </div>
 
 # ¿Por qué Pyomo?
 
